@@ -4,7 +4,7 @@
  * Description: Muestra las publicaciones de un usuario de Bluesky utilizando la API oficial mediante un shortcode.
  * Version: 1.1
  * Author: angel@bandin.com
- * License: GPL2
+ * License: GNU GENERAL PUBLIC LICENSE. Version 3
  */
 
 /* ================================================
